@@ -1,0 +1,15 @@
+.quiz-main {
+    margin: 1.5rem;
+    text-align: center;
+  }
+  
+.question-container {
+    width: 100%;
+    margin: 1rem auto;
+    font-size: larger;
+    padding: 1rem 0;
+  }
+  
+.question-container p {
+    margin: 1rem 0;
+}

@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+header{
+    padding: 1rem;
+    background-color: rgb(167, 114, 217);
+    color: rgb(248, 243, 243);
+    text-align: initial;
+}
+
+nav{
+    text-align: right;
+    padding: 0rem;
+}
+
+a{
+    padding: 0 0.5rem;
+    text-decoration: none;
+    color: white;
+}
+
+main {
+    margin: 0 0 7rem;
+}
+  
+main h1{
+    margin: 1rem;
+}
+
+.btn-check {
+    background: rgb(167, 114, 217);
+    border: none;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    font-size: large;
+    cursor: pointer;
+    margin: 1rem auto;
+    color: white;
+    display: block;
+}
