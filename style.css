@@ -29,7 +29,7 @@ a{
 main {
     margin: 0 0 7rem;
 }
-  
+
 main h1{
     margin: 1rem;
 }
@@ -37,7 +37,7 @@ main h1{
 .btn-check {
     background: rgb(167, 114, 217);
     border: none;
-    padding: 0.5rem;
+    padding: 0.7rem;
     border-radius: 1rem;
     font-size: large;
     cursor: pointer;

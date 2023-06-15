@@ -1,0 +1,41 @@
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+
+h2 {
+    font-size: 40px;
+    margin: 1rem;
+    border-bottom: 1px solid black;
+}
+
+p {
+    font-size: 30px;
+    margin-top: 1rem;
+}
+
+label {
+    font-size: 20px;
+    margin: 20px 0 10px 0;
+}
+
+input {
+    padding: 10px;
+    border-radius: 20px;
+    width: 300px;
+    font-size: 15px;
+}
+
+.output-msg {
+    border: 2px solid black;
+    background-color: aliceblue;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: 20px;
+    color: black;
+    display: none;
+}
